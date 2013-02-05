@@ -1,3 +1,4 @@
 Welcome to the Kandan Wiki!
 
-[How to Contribute](https://github.com/kandanapp/kandan/wiki/How-to-Contribute)
+* [How to Contribute Code](https://github.com/kandanapp/kandan/wiki/How-to-Contribute-Code)
+* [How to Contribute Issues](https://github.com/kandanapp/kandan/wiki/How-to-Contribute-Issues)
