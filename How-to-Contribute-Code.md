@@ -1,5 +1,5 @@
 ### How To Contribute Code
-Whether you've got a bugfix, documentation update, or new feature for us, these are the steps to follow to contribute code back into the main joind.in repo.
+Whether you've got a bugfix, documentation update, or new feature for us, these are the steps to follow to contribute code back into the main kandan repo.
 
 **1. Get the latest code from Github**
 
