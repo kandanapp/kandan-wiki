@@ -50,7 +50,7 @@ If you're working on an issue in the Issues list for the main kandan repo, use t
 When you have finished making your changes, you'll need to push up your changes to your fork so we can grab them. With them all committed, push them:
 
 ```bash
-git push upstream kandan-[issue-num]
+git push origin kandan-[issue-num]
 ```
 
 This pushes everything in that branch up. Then you can go back over to the main kandan github page and issue a pull request from there.  Tell us what you want us to merge and what it does/fixes, and one of us will pick it up.
