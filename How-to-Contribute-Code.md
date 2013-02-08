@@ -21,7 +21,7 @@ One thing you'll need to do to make things easier to integrate and keep up to da
 
 ```bash
 git remote add upstream https://github.com/kandanapp/kandan.git
-git remote   (this will list out your remotes, showing the new one we added)
+git remote # this will list out your remotes, showing the new one we added
 ```
 
 Then, when you need to pull the latest from the main kandan repo, you just fetch and merge the master branch:
@@ -38,8 +38,8 @@ You can also use *git pull upstream master* if you want it all in one step.
 When adding features or bug fixes, please create a separate branch for each changeset you want us to pull in, either with the issue number in the branch name or with an indication of what the feature is.  For more detailed instructions, read the "Working with Zend Framework" section on [[this page|http://framework.zend.com/wiki/display/ZFDEV2/Zend+Framework+Git+Guide]] - we use the same conventions developed by Zend Framework so we refer to their docs rather than maintaining our own!  To create the branch, do something like this:
 
 ```bash
-git branch   (lists your current branches)
-git branch my_new_code   (makes a new branch called my_new_code)
+git branch # lists your current branches
+git branch my_new_code # makes a new branch called my_new_code
 git checkout my_new_code
 ```
 
