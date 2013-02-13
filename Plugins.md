@@ -14,5 +14,5 @@ There are a few useful, prebuilt plugins that come pre-installed:
 * Attachments
 * [MeAnnounce](https://github.com/kandanapp/kandan/wiki/Plugin-MeAnnounce)
 * [Emoticons](https://github.com/kandanapp/kandan/wiki/Emoticons)
-* RgbColorEmbed
-* HexColorEmbed
+* [RgbColorEmbed](https://github.com/kandanapp/kandan/wiki/Plugin-Colors)
+* [HexColorEmbed](https://github.com/kandanapp/kandan/wiki/Plugin-Colors)
