@@ -5,3 +5,4 @@
  * [YouTubeEmbed](https://github.com/kandanapp/kandan/wiki/Plugin-YouTube)
  * [VimeoEmbed](https://github.com/kandanapp/kandan/wiki/Plugin-Vimeo)
  * [MeAnnounce](https://github.com/kandanapp/kandan/wiki/Plugin-MeAnnounce)
+ * [Emoticons](https://github.com/kandanapp/kandan/wiki/Emoticons)
