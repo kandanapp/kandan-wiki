@@ -7,7 +7,7 @@ There are a few useful, prebuilt plugins that come pre-installed:
 * UserList
 * MusicPlayer
 * YouTubeEmbed
-* VimeoEmbed
+* [VimeoEmbed](https://github.com/kandanapp/kandan/wiki/Plugin-Vimeo)
 * ImageEmbed
 * LinkEmbed
 * Pastie
