@@ -1,1 +1,1 @@
-Copyright © 2013 - KandanApp
+Copyright © 2012-2013 - KandanApp
