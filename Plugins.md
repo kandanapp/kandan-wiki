@@ -12,7 +12,7 @@ There are a few useful, prebuilt plugins that come pre-installed:
 * LinkEmbed
 * Pastie
 * Attachments
-* MeAnnounce
+* [MeAnnounce](https://github.com/kandanapp/kandan/wiki/Plugin-MeAnnounce)
 * Emoticons
 * RgbColorEmbed
 * HexColorEmbed
