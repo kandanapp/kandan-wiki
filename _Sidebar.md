@@ -8,3 +8,4 @@
  * [Emoticons](https://github.com/kandanapp/kandan/wiki/Emoticons)
  * [HexPlugin](https://github.com/kandanapp/kandan/wiki/Plugin-Colors)
  * [RgbPlugin](https://github.com/kandanapp/kandan/wiki/Plugin-Colors)
+ * [Mentions](https://github.com/kandanapp/kandan/wiki/Plugin-Mentions)

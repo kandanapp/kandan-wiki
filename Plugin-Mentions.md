@@ -1,5 +1,5 @@
 ### Usage
-Type @_username_
+Type @username
 
 `@gabceb`
 
