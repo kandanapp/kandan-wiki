@@ -4,7 +4,7 @@ The purpose of this page is to aid developers in finding plugins that work with 
 ### Available Plugins
 There are a few useful, prebuilt plugins that come pre-installed:
 
-* UserList
+* [UserList](https://github.com/kandanapp/kandan/wiki/Plugin-UserList)
 * MusicPlayer
 * [YouTubeEmbed](https://github.com/kandanapp/kandan/wiki/Plugin-YouTube)
 * [VimeoEmbed](https://github.com/kandanapp/kandan/wiki/Plugin-Vimeo)
