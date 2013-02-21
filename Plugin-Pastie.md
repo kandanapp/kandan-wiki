@@ -2,6 +2,12 @@
 Just a very basic plugin for Pasting large amounts of text.
 
 ### Usage
+There's no real usage guidelines. You can set the following options though:
+
+* maxPreviewLength
+* maxPreviewLines
+
+In `app/assets/javascripts/backbone/plugins/pastie.js.coffee`
 
 ### Code
 ```
