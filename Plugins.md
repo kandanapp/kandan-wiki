@@ -9,7 +9,7 @@ There are a few useful, prebuilt plugins that come pre-installed:
 * [YouTubeEmbed](https://github.com/kandanapp/kandan/wiki/Plugin-YouTube)
 * [VimeoEmbed](https://github.com/kandanapp/kandan/wiki/Plugin-Vimeo)
 * ImageEmbed
-* LinkEmbed
+* [LinkEmbed](https://github.com/kandanapp/kandan/wiki/Plugins-LinkEmbed)
 * [Pastie](https://github.com/kandanapp/kandan/wiki/Plugin-Pastie)
 * Attachments
 * [MeAnnounce](https://github.com/kandanapp/kandan/wiki/Plugin-MeAnnounce)

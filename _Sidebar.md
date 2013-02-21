@@ -4,6 +4,7 @@
 * [Plugins](https://github.com/kandanapp/kandan/wiki/Plugins)
  * [YouTubeEmbed](https://github.com/kandanapp/kandan/wiki/Plugin-YouTube)
  * [VimeoEmbed](https://github.com/kandanapp/kandan/wiki/Plugin-Vimeo)
+ * [LinkEmbed](https://github.com/kandanapp/kandan/wiki/Plugins-LinkEmbed)
  * [Pastie](https://github.com/kandanapp/kandan/wiki/Plugin-Pastie)
  * [MeAnnounce](https://github.com/kandanapp/kandan/wiki/Plugin-MeAnnounce)
  * [Emoticons](https://github.com/kandanapp/kandan/wiki/Plugin-Emoticons)
