@@ -13,7 +13,6 @@ These are features that work out of the box on any provider:
  * Collaborative team chat
  * Unlimited channels
  * Embed formats for images and youtube videos with requests for others (twitter, facebook, g+, etc.)
- * Synchronized sound player - play any audio-tag compatible url for the whole channel (Pending :P)
  * /me command!
  * Highly extensible plugin format
 
