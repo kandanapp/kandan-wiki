@@ -1,6 +1,8 @@
 ### Description
+This plugin displays allows a user to upload an attachment to a Kandan instance.
 
 ### Usage
+Just drag and drop a file into the Media Sidebar box. This is a __CORE__ plugin and shouldn't be removed.
 
 ### Code
 ```
