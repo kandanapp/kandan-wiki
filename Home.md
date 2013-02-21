@@ -6,8 +6,6 @@ Unlike HipChat or other alternatives, Kandan is completely Open Source and can b
 ### Background
 Kandan was originally developed by [Cloudfuji](http://cloudfuji.com/) and they started development on it back on March 6th of 2012. Development went pretty fast and furious until about June 4th of 2012. After that there wasn't another commit to the repository until some pull requests came in during the month of January of 2013.
 
-In talking with the team at Cloudfuji both [James Gifford](http://jamesrgifford.com/) and [Tony Guntharp](http://fusion94.org) agreed to take over maintenance of the project.
-
 ### Features
 These are features that work out of the box on any provider:
 
