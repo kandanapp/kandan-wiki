@@ -8,6 +8,7 @@
  * [ImageEmbed](https://github.com/kandanapp/kandan/wiki/Plugins-ImageEmbed)
  * [LinkEmbed](https://github.com/kandanapp/kandan/wiki/Plugins-LinkEmbed)
  * [Pastie](https://github.com/kandanapp/kandan/wiki/Plugin-Pastie)
+ * [Attachments](https://github.com/kandanapp/kandan/wiki/Plugin-Attachments)
  * [MeAnnounce](https://github.com/kandanapp/kandan/wiki/Plugin-MeAnnounce)
  * [Emoticons](https://github.com/kandanapp/kandan/wiki/Plugin-Emoticons)
  * [HexPlugin](https://github.com/kandanapp/kandan/wiki/Plugin-Colors)
