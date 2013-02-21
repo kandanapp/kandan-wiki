@@ -8,7 +8,7 @@ There are a few useful, prebuilt plugins that come pre-installed:
 * MusicPlayer
 * [YouTubeEmbed](https://github.com/kandanapp/kandan/wiki/Plugin-YouTube)
 * [VimeoEmbed](https://github.com/kandanapp/kandan/wiki/Plugin-Vimeo)
-* ImageEmbed
+* [ImageEmbed](https://github.com/kandanapp/kandan/wiki/Plugins-ImageEmbed)
 * [LinkEmbed](https://github.com/kandanapp/kandan/wiki/Plugins-LinkEmbed)
 * [Pastie](https://github.com/kandanapp/kandan/wiki/Plugin-Pastie)
 * Attachments
