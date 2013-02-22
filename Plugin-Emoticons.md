@@ -35,6 +35,8 @@ For simple emoticons use the emoticon characters. For memes use ( _word_ ). See 
 * :p
 * =p
 
+Kandan also supports all emoji from [http://www.emoji-cheat-sheet.com/](http://www.emoji-cheat-sheet.com/)
+
 ### Code
 ```
 class Kandan.Plugins.Emoticons
