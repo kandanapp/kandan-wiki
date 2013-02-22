@@ -5,6 +5,7 @@
 * [AppFog](#appfog)
 * [Stand Alone Server](#standalone-server) 
 
+<hr>
 # <a name="cloud-foundry"></a>Cloud Foundry
 You'll need a [Cloud Foundry account](https://my.cloudfoundry.com/signup) and the [vmc gem](https://rubygems.org/gems/vmc) installed. Do you `vmc target <cloud foundry host>` and `vmc login`, and then this will get you up and running:
 
@@ -42,6 +43,7 @@ You'll answer a few questions:
     
 And Kandan should be available on your Cloud Foundry backend now!
 
+<hr>
 # <a name="heroku"></a>Heroku
 You'll need to have the [heroku gem](https://github.com/heroku/heroku) installed and to have an existing heroku account. Assuming that, this should work reliably on Heroku:
 
@@ -69,6 +71,7 @@ Your app should be up and running now. The default admin user is `Admin` with pa
 ## dotCloud
 Looking for community help here.
 
+<hr>
 # <a name="appfog"></a>AppFog
 You'll need an [AppFog account](https://www.appfog.com/) and the [af command line tool](https://docs.appfog.com/getting-started/af-cli) installed. Once that's all set up, login from the command line: `af login`. You'll be prompted for the username/password you set on AppFog. You're returned to your operating system's command prompt. It's not a terminal emulator.
 
@@ -108,6 +111,7 @@ If you get the invalid app description, open manifest.yml in a text editor and r
 
 And you should also restart the app on AppFog (in the console). Then, Kandan should be available on your AppFox backend now! With your browser, visit the domain name assigned to you by AppFog (or create a CNAME record at your DNS provider to use an alternate).
 
+<hr>
 # <a name="standalone-server"></a>Stand Alone Server
 If you're looking to install Kandan on a private server, or to develop locally for lemonodor fame, then here is the path you must follow, young hero:
 
