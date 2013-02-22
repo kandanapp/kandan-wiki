@@ -1,5 +1,6 @@
 * [Home](https://github.com/kandanapp/kandan/wiki) - Overview of Kandan
 * [Installation](https://github.com/kandanapp/kandan/wiki/Installation)
+* [Roadmap](https://github.com/kandanapp/kandan/wiki/Roadmap)
 * [Contributing Code](https://github.com/kandanapp/kandan/wiki/How-to-Contribute-Code) 
 * [Contributing Issues](https://github.com/kandanapp/kandan/wiki/How-to-Contribute-Issues)
 * [Plugins](https://github.com/kandanapp/kandan/wiki/Plugins)
