@@ -1,4 +1,11 @@
-## Cloud Foundry
+
+# Table of Contents
+ 
+* [Cloud Foundry](#cloud-foundry)
+* [Heroku](#heroku)
+* [AppFog](#appfog)
+ 
+# <a name="cloud-foundry"></a>Cloud Foundry
 You'll need a [Cloud Foundry account](https://my.cloudfoundry.com/signup) and the [vmc gem](https://rubygems.org/gems/vmc) installed. Do you `vmc target <cloud foundry host>` and `vmc login`, and then this will get you up and running:
 
     git clone https://github.com/kandanapp/kandan.git
@@ -35,7 +42,7 @@ You'll answer a few questions:
     
 And Kandan should be available on your Cloud Foundry backend now!
 
-## Heroku
+# <a name="heroku"></a>Heroku
 You'll need to have the [heroku gem](https://github.com/heroku/heroku) installed and to have an existing heroku account. Assuming that, this should work reliably on Heroku:
 
     git clone https://github.com/kandanapp/kandan.git
@@ -62,7 +69,7 @@ Your app should be up and running now. The default admin user is `Admin` with pa
 ## dotCloud
 Looking for community help here.
 
-## AppFog
+# <a name="appfog"></a>AppFog
 You'll need an [AppFog account](https://www.appfog.com/) and the [af command line tool](https://docs.appfog.com/getting-started/af-cli) installed. Once that's all set up, login from the command line: `af login`. You'll be prompted for the username/password you set on AppFog. You're returned to your operating system's command prompt. It's not a terminal emulator.
 
 If you want to use PostgreSQL rather than MySQL, provision the service on the Services page of the [console](https://console.appfog.com). Note the name of your database and app name on the console and substitute as appropriate.
