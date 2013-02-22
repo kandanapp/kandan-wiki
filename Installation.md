@@ -2,6 +2,7 @@
  
 * [Cloud Foundry](#cloud-foundry)
 * [Heroku](#heroku)
+* [dotCloud](#dotcloud)
 * [AppFog](#appfog)
 * [Stand Alone Server](#standalone-server) 
 
@@ -68,7 +69,8 @@ If successful you should get a response similar to:
 
 Your app should be up and running now. The default admin user is `Admin` with password `kandanappadmin`, or you can sign up as another user.
 
-## dotCloud
+<hr>
+# <a name="dotcloud"></a>dotCloud
 Looking for community help here.
 
 <hr>
