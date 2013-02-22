@@ -1,10 +1,10 @@
-
 # Table of Contents
  
 * [Cloud Foundry](#cloud-foundry)
 * [Heroku](#heroku)
 * [AppFog](#appfog)
- 
+* [Stand Alone Server](#standalone-server) 
+
 # <a name="cloud-foundry"></a>Cloud Foundry
 You'll need a [Cloud Foundry account](https://my.cloudfoundry.com/signup) and the [vmc gem](https://rubygems.org/gems/vmc) installed. Do you `vmc target <cloud foundry host>` and `vmc login`, and then this will get you up and running:
 
@@ -108,7 +108,7 @@ If you get the invalid app description, open manifest.yml in a text editor and r
 
 And you should also restart the app on AppFog (in the console). Then, Kandan should be available on your AppFox backend now! With your browser, visit the domain name assigned to you by AppFog (or create a CNAME record at your DNS provider to use an alternate).
 
-## Heroic server install
+# <a name="standalone-server"></a>Stand Alone Server
 If you're looking to install Kandan on a private server, or to develop locally for lemonodor fame, then here is the path you must follow, young hero:
 
 For development-mode
