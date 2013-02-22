@@ -3,6 +3,8 @@ What is Kandan? Kandan is a private chat service for your company or team. You c
 
 Unlike HipChat or other alternatives, Kandan is completely Open Source and can be hosted internally or externally by your organization or by a third party. 
 
+![Kandan 1.0](https://raw.github.com/kandanapp/kandan/resources/kandan_1.0.png)
+
 Please read the [installation](https://github.com/kandanapp/kandan/wiki/Installation) instructions on how to do so.
 
 ### Background
