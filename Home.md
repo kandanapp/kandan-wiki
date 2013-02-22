@@ -23,6 +23,10 @@ A CLA is a legal document in which you state you are entitled to contribute the 
 
 The CLA also ensures that once you have provided a contribution, you cannot try to withdraw permission for its use at a later date. People and companies can therefore use that software, confident that they will not be asked to stop using pieces of the code at a later date.
 
+Please also take the time to read these two wiki pages in regards to contributing.
+
+* [How to Contribute Code](https://github.com/kandanapp/kandan/wiki/How-to-Contribute-Code)
+* [How to Contribute Issues](https://github.com/kandanapp/kandan/wiki/How-to-Contribute-Issues)
 
 Make sure you check out these resources as well.
 
