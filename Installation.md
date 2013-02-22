@@ -46,7 +46,7 @@ And Kandan should be available on your Cloud Foundry backend now!
 
 <hr>
 # <a name="heroku"></a>Heroku
-You'll need to have the [heroku gem](https://github.com/heroku/heroku) installed and to have an existing heroku account. Assuming that, this should work reliably on Heroku:
+You'll need to have the [heroku gem](https://github.com/heroku/heroku) installed and to have an existing [heroku account](https://api.heroku.com/signup). Assuming that, this should work reliably on Heroku:
 
     git clone https://github.com/kandanapp/kandan.git
     cd kandan
