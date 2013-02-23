@@ -12,6 +12,13 @@ Kandan was originally developed by [Cloudfuji](http://cloudfuji.com/) and they s
 
 In February of 2013 control of the project was transfered to the current development team.
 
+* [Tony Guntharp](https://github.com/fusion94)
+* [James Gifford](https://github.com/jrgifford)
+* [Gabriel Cebrian](https://github.com/gabceb)
+* [Don Thorp](https://github.com/donthorp)
+* [Spencer Cooley](https://github.com/SpencerCooley)
+* [Greg Kucharo](https://github.com/kucharo)
+
 ### Get Involved
 Since Kandan is a fully open-source app, we would appreciate if you dive in and start adding features, fixing bugs (what bugs?), and cleaning up the code.
 
