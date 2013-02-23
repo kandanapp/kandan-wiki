@@ -1,10 +1,29 @@
 # Table of Contents
- 
+
+* [Requirements](#requirements)
+* [WARNING](#warning)
 * [Cloud Foundry](#cloud-foundry)
 * [Heroku](#heroku)
 * [dotCloud](#dotcloud)
 * [AppFog](#appfog)
 * [Stand Alone Server](#standalone-server) 
+
+<hr>
+# <a name="requirements"></a>Requirements
+* Ruby 1.9
+
+<hr>
+# <a name="warning"></a>WARNING
+We try and keep the __MASTER__ branch of the Kandan code clean and usable but it is __bleeding edge__ and can cause unpredictable results.
+
+If you need a version of Kandan that's both __tested & stable__ then please make sure you're installing from the lastest `tagged` version of the code.
+
+```
+git clone git@github.com:kandanapp/kandan.git
+cd kandan
+git tag -l
+git checkout <tag_name>
+```
 
 <hr>
 # <a name="cloud-foundry"></a>Cloud Foundry
