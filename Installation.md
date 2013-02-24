@@ -25,6 +25,48 @@ git tag -l
 git checkout <tag_name>
 ```
 
+Depending on your setup you might also see the following error:
+
+```
+Building native extensions. This could take a while...
+ERROR: Error installing debugger-linecache:
+ERROR: Failed to build gem native extension.
+ 
+/home/jrg/.rbenv/versions/1.9.3-p385/bin/ruby extconf.rb
+checking for vm_core.h... no
+checking for vm_core.h... no
+Makefile creation failed
+**************************************************************************
+No source for ruby-1.9.3-p385 provided with debugger-ruby_core_source gem.
+**************************************************************************
+*** extconf.rb failed ***
+Could not create Makefile due to some reason, probably lack of
+necessary libraries and/or headers. Check the mkmf.log file for more
+details. You may need configuration options.
+ 
+Provided configuration options:
+--with-opt-dir
+--without-opt-dir
+--with-opt-include
+--without-opt-include=${opt-dir}/include
+--with-opt-lib
+--without-opt-lib=${opt-dir}/lib
+--with-make-prog
+--without-make-prog
+--srcdir=.
+--curdir
+--ruby=/home/jrg/.rbenv/versions/1.9.3-p385/bin/ruby
+--with-ruby-dir
+--without-ruby-dir
+--with-ruby-include
+--without-ruby-include=${ruby-dir}/include
+--with-ruby-lib
+--without-ruby-lib=${ruby-dir}/lib
+```
+To work around it run this then attempt to re-install.
+
+`gem install debugger-ruby_core_source`
+
 <hr>
 # <a name="cloud-foundry"></a>Cloud Foundry
 You'll need a [Cloud Foundry account](https://my.cloudfoundry.com/signup) and the [vmc gem](https://rubygems.org/gems/vmc) installed. Do you `vmc target <cloud foundry host>` and `vmc login`, and then this will get you up and running:
